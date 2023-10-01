@@ -8,7 +8,7 @@ body{
 	align-items: center;
 	flex-wrap:wrap;
 }
-.box{
+.blog-column{
 	height : 250px;
 	width : 250px;
 	background-color: white;
@@ -18,6 +18,6 @@ body{
 	flex-direction: column;
 	align-items: center;
 }
-.box>h1, .box>article{
+.blog-column>h2, .blog-column>article{
 	background-color: white;
 }
